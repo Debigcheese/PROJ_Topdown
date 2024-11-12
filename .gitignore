@@ -78,4 +78,5 @@ DerivedDataCache/*
 .git/
 .ignore
 Untitled_Topdown.code-workspace
+Untitled_Topdown.uproject
 Makefile
