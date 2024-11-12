@@ -76,7 +76,6 @@ DerivedDataCache/*
 # Custom files
 .vscode/
 .git/
-.idea/
 .ignore
 Untitled_Topdown.code-workspace
 Makefile
